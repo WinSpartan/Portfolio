@@ -1,7 +1,7 @@
 import React from 'react';
 
-import pic1 from '../../images/pic01.jpg';
-import pic2 from '../../images/pic02.jpg';
+import pic1 from '../../images/azureswap.jpg';
+import pic2 from '../../images/python-transparent-logo.jpg';
 import pic3 from '../../images/pic03.jpg';
 
 import Feature from './Feature';
@@ -11,31 +11,31 @@ const Features = () => {
     {
       href: '/#',
       image: pic1,
-      heading: 'Sed ipsum dolor',
-      description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
+      heading: 'Portfolio Site (this page)',
+      description: 'Built with Gatsby and hosted using Azure Static Web App Preview.',
       to: {
-        href: '/generic',
-        label: 'Learn more',
+        href: '/#',
+        label: 'Coming Soon',
       },
     },
     {
       href: '/#',
       image: pic2,
-      heading: 'Feugiat consequat',
-      description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
+      heading: 'Kitchen Companion',
+      description: 'Flask web app, python recipe web scraping libraries, and ListenAPI podcast integration for time well spent in the kitchen.',
       to: {
-        href: '/generic',
-        label: 'Learn more',
+        href: '/#',
+        label: 'Coming Soon',
       },
     },
     {
       href: '/#',
       image: pic3,
-      heading: 'Ultricies aliquam',
-      description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
+      heading: 'TBD',
+      description: 'If you like Nebraska Football, this will be the data science project for you.  Python, Pandas, Numpy, matplotlib..',
       to: {
-        href: '/generic',
-        label: 'Learn more',
+        href: '/#',
+        label: 'Coming Soon',
       },
     },
   ];

@@ -6,8 +6,9 @@ const Introduction = () =>
     <div className="inner">
       <h1>Stephen Rex Hunter</h1>
       <p>
-        Welcome to my Portfolio!
+        Welcome to my Portfolio! 
         <br />
+        While the site is a work in progress, hit the jump to learn more about my upcoming projects, experience, and skills.
       </p>
       <ul className="actions">
         <li>
@@ -15,9 +16,11 @@ const Introduction = () =>
             <a href="#one" className="button">
               Learn more
             </a>
+            
           </Scroll>
         </li>
       </ul>
+      
     </div>
   </section>
 

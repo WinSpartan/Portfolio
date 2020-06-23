@@ -5,7 +5,7 @@ import Capability from './Capability';
 const CapabilityList = () => {
   const CAPABILITIES = [
     {
-      heading: 'Lorem ipsum amet',
+      heading: 'Code',
       description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
       iconClass: 'fa-code',
     },
