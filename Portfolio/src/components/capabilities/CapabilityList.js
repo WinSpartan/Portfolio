@@ -5,34 +5,34 @@ import Capability from './Capability';
 const CapabilityList = () => {
   const CAPABILITIES = [
     {
+      heading: 'Enterprise Ready',
+      description: 'Five years + experience in deploying Enterprise infrastructure solutions @ Pfizer.',
+      iconClass: 'fa-server',
+    },
+    {
+      heading: 'Certified',
+      description: 'Demonstrated skills through leading companies:  AWS, Scrum Alliance, Microsoft, CompTIA .',
+      iconClass: 'fa-check-circle',
+    },
+    {
       heading: 'Code',
-      description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
+      description: 'Powershell, Bash, Python, HTML5, CSS, Javascript',
       iconClass: 'fa-code',
     },
     {
-      heading: 'Morem ipsum amet',
-      description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
-      iconClass: 'fa-lock',
+      heading: 'Cloud',
+      description: 'AWS & Azure familiarity.',
+      iconClass: 'fa-cloud',
     },
     {
-      heading: 'Dorem ipsum amet',
-      description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
-      iconClass: 'fa-cog',
+      heading: 'Business Acclimated',
+      description: 'MBA backed business case development skills',
+      iconClass: 'fa-balance-scale',
     },
     {
-      heading: 'Forem ipsum amet',
-      description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
-      iconClass: 'fa-desktop',
-    },
-    {
-      heading: 'Corem ipsum amet',
-      description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
-      iconClass: 'fa-chain',
-    },
-    {
-      heading: 'Norem ipsum amet',
-      description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
-      iconClass: 'fa-diamond',
+      heading: 'Project Management',
+      description: 'End-to-end project management experience in managing resources, budgets, and reporting responsibilities.',
+      iconClass: 'fa-sitemap',
     },
   ]
 

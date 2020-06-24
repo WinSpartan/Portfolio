@@ -16,6 +16,12 @@ const Feature = ({href, image, heading, description, to}) =>
               {to.label}
             </Link>
           </li>
+
+          <li>
+          <a href="https://example.com" target="_blank" rel="noopener noreferrer" className="button">
+        External link
+      </a>
+      </li>
         </ul>
       </div>
     </div>

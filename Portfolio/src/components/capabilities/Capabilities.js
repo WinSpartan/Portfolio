@@ -13,13 +13,7 @@ const Capabilities = () =>
       <div className="features">
         <CapabilityList />
       </div>
-      <ul className="actions">
-        <li>
-          <Link className="button" to="/generic">
-            Learn more
-          </Link>
-        </li>
-      </ul>
+
     </div>
   </section>
 

@@ -19,6 +19,14 @@ const Introduction = () =>
             
           </Scroll>
         </li>
+        <li>
+          <Scroll type="id" element="one">
+            <a href="#one" className="button">
+              Download Resume
+            </a>
+            
+          </Scroll>
+        </li>
       </ul>
       
     </div>
