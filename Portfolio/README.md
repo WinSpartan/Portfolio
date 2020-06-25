@@ -10,7 +10,7 @@ For an overview of the project structure please refer to the [Gatsby documentati
 
 ## Screenshot
 
-![Screenshot](./src/assets/img/hyperspace.png)
+![Screenshot](./src/assets/img/hyperspace.jpg)
 ![Screenshot](./src/assets/img/screenshot.png)
 
 Check online demo [here](https://anubhavsrivastava.github.io/gatsby-starter-hyperspace/)
