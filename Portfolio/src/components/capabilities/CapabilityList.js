@@ -6,27 +6,27 @@ const CapabilityList = () => {
   const CAPABILITIES = [
     {
       heading: 'Enterprise Ready',
-      description: 'Five years + experience in deploying Enterprise infrastructure solutions @ Pfizer.',
+      description: 'Five + years experience in deploying enterprise infrastructure solutions @ Pfizer.',
       iconClass: 'fa-server',
     },
     {
       heading: 'Certified',
-      description: 'Demonstrated skills through leading companies:  AWS, Scrum Alliance, Microsoft, CompTIA .',
+      description: 'Demonstrated skills through leading companies:  AWS, Scrum Alliance, Microsoft, CompTIA.',
       iconClass: 'fa-check-circle',
     },
     {
       heading: 'Code',
-      description: 'Powershell, Bash, Python, HTML5, CSS, Javascript',
+      description: 'Powershell, Bash, Git, Python, HTML5, CSS, Javascript',
       iconClass: 'fa-code',
     },
     {
       heading: 'Cloud',
-      description: 'AWS & Azure familiarity.',
+      description: 'AWS & Azure experience ',
       iconClass: 'fa-cloud',
     },
     {
-      heading: 'Business Acclimated',
-      description: 'MBA backed business case development skills',
+      heading: 'Business First',
+      description: 'MBA backed skills in building better business use cases',
       iconClass: 'fa-balance-scale',
     },
     {

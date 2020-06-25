@@ -1,16 +1,19 @@
-# gatsby-starter-hyperspace
+# Stephen Rex Hunter (Hyperspace) Portfolio
 
-Gatsby.js V2 starter template based on Hyperspace by HTML5 UP
+This portfolio is a Gatsby.js V2 starter template based on [Hyperspace](https://www.gatsbyjs.org/starters/anubhavsrivastava/gatsby-starter-hyperspace/) by HTML5 UP
+
+The original README follows the screenshots below.  
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
 
-![Screenshot](./src/assets/img/hyperspace.jpg)
 
-Check online demo [here](https://anubhavsrivastava.github.io/gatsby-starter-hyperspace/)
 
 ## Screenshot
 
-![Screenshot](./src/assets/img/demo.png)
+![Screenshot](./src/assets/img/hyperspace.png)
+![Screenshot](./src/assets/img/screenshot.png)
+
+Check online demo [here](https://anubhavsrivastava.github.io/gatsby-starter-hyperspace/)
 
 ## Install
 

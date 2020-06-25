@@ -11,18 +11,18 @@ const ContactInformation = () =>
       </li>
       <li>
         <h3>Email</h3>
-        <a href="/#">StephenInDev@outlook.com</a>
+        <a href="mailto:StephenInDev@outlook.com">StephenInDev@outlook.com</a>
       </li>
       <li>
         <h3>Social</h3>
         <ul className="icons">
           <li>
-            <a href="/#" className="fa-github">
+            <a href="https://github.com/WinSpartan" className="fa-github">
               <span className="label">GitHub</span>
             </a>
           </li>
           <li>
-            <a href="/#" className="fa-linkedin">
+            <a href="https://www.linkedin.com/in/stephenindev/" className="fa-linkedin">
               <span className="label">LinkedIn</span>
             </a>
           </li>

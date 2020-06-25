@@ -8,21 +8,13 @@ const Introduction = () =>
       <p>
         Welcome to my Portfolio! 
         <br />
-        While the site is a work in progress, hit the jump to learn more about my upcoming projects, experience, and skills.
+        While the content is a work in progress, hit the jump to learn more about my upcoming projects, experience, and skills.
       </p>
       <ul className="actions">
         <li>
           <Scroll type="id" element="one">
             <a href="#one" className="button">
               Learn more
-            </a>
-            
-          </Scroll>
-        </li>
-        <li>
-          <Scroll type="id" element="one">
-            <a href="#one" className="button">
-              Download Resume
             </a>
             
           </Scroll>

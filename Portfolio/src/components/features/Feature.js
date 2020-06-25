@@ -1,27 +1,21 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-const Feature = ({href, image, heading, description, to}) =>
+const Feature = ({image, heading, description, buttonhref, buttondescription}) =>
   <section>
-    <a href={href} className="image" alt="image">
+    <div className="image" alt="image">
       <img src={image} alt="" data-position="center center" />
-    </a>
+    </div>
     <div className="content">
       <div className="inner">
         <h2>{heading}</h2>
         <p>{description}</p>
         <ul className="actions">
-          <li>
-            <Link className="button" to={to.href}>
-              {to.label}
-            </Link>
+        <li>
+          <a href={buttonhref} className="button">
+              {buttondescription}
+          </a>
           </li>
-
-          <li>
-          <a href="https://example.com" target="_blank" rel="noopener noreferrer" className="button">
-        External link
-      </a>
-      </li>
         </ul>
       </div>
     </div>

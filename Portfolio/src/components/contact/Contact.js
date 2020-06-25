@@ -8,7 +8,7 @@ const Contact = () =>
     <div className="inner">
       <h2>Get in touch</h2>
       <p>
-        Feel free to use the form below or contact information on the side to get in touch!
+        Contact form is a WIP - please use the contact information on the side to get in touch!
         <br />
         - Stephen
       </p>
