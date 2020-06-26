@@ -6,7 +6,7 @@ const CapabilityList = () => {
   const CAPABILITIES = [
     {
       heading: 'Enterprise Ready',
-      description: 'Five + years experience in deploying enterprise infrastructure solutions @ Pfizer.',
+      description: 'Five + years experience in planning, designing, and deploying enterprise infrastructure solutions @ Pfizer.',
       iconClass: 'fa-server',
     },
     {
@@ -26,7 +26,7 @@ const CapabilityList = () => {
     },
     {
       heading: 'Business First',
-      description: 'MBA backed skills in building better business use cases',
+      description: 'MBA backed skills in building better business cases',
       iconClass: 'fa-balance-scale',
     },
     {

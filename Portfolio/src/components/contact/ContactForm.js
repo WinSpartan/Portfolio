@@ -2,7 +2,7 @@ import React from 'react';
 
 const ContactForm = () =>
   <section>
-    <form method="post" action="#">
+    <form method="post" action="https://formspree.io/StephenInDev@outlook.com">
       <div className="fields">
         <div className="field half">
           <label htmlFor="name">Name</label>
@@ -10,7 +10,7 @@ const ContactForm = () =>
         </div>
         <div className="field half">
           <label htmlFor="email">Email</label>
-          <input type="text" name="email" id="email" />
+          <input type="email" name="_replyto" id="email" />
         </div>
         <div className="field">
           <label htmlFor="message">Message</label>
@@ -19,12 +19,19 @@ const ContactForm = () =>
       </div>
       <ul className="actions">
         <li>
-          <a href="/#" className="button submit">
+          <button type="submit" className="button submit">
             Send Message
-          </a>
+          </button>
+        </li>
+        <li>
+          <button type="reset" value="Clear" className="button submit">
+            Clear
+          </button>
         </li>
       </ul>
     </form>
   </section>
 
 export default ContactForm;
+
+
