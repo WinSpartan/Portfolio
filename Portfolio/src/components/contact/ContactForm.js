@@ -2,7 +2,7 @@ import React from 'react';
 
 const ContactForm = () =>
   <section>
-    <form method="post" action="https://formspree.io/StephenInDev@outlook.com">
+    <form method="post" action="https://formspree.io/xjvaaaba">
       <div className="fields">
         <div className="field half">
           <label htmlFor="name">Name</label>
