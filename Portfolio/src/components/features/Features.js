@@ -19,9 +19,9 @@ const Features = () => {
     {
       image: pic2,
       heading: 'Kitchen Companion',
-      description: 'Flask web app, python recipe web scraping libraries, and ListenAPI podcast integration for time well spent in the kitchen.',
-      buttonhref: '', 
-      buttondescription:  "Coming Soon"
+      description: 'Flask CRUD web app, SQLITE backend.  Uses a python web-scraping library for gathering & storing recipes for an local online cookbook.',
+      buttonhref: 'https://github.com/WinSpartan/KitchenCompanion', 
+      buttondescription:  "See on GitHub"
     },
     {
       image: pic3,
