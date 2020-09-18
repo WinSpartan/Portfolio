@@ -26,7 +26,7 @@ const CapabilityList = () => {
     },
     {
       heading: 'Business First',
-      description: 'MBA backed skills in building better business cases',
+      description: 'MBA backed skills in building lean, cost effective solutions that drive value',
       iconClass: 'fa-balance-scale',
     },
     {

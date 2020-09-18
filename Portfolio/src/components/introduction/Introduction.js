@@ -8,7 +8,7 @@ const Introduction = () =>
       <p>
         Welcome to my Portfolio! 
         <br />
-        While the content is a work in progress, hit the jump to learn more about my upcoming projects, experience, and skills.
+        Scroll down or hit the jump to learn more about my projects, experience, and skills.
       </p>
       <ul className="actions">
         <li>

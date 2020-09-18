@@ -19,7 +19,7 @@ const Features = () => {
     {
       image: pic2,
       heading: 'Kitchen Companion',
-      description: 'Flask CRUD web app, SQLITE backend.  Uses a python web-scraping library for gathering & storing recipes for an local online cookbook.',
+      description: 'Flask CRUD web app, SQLITE backend.  Uses a python web-scraping library for gathering & storing recipes for a local online cookbook.',
       buttonhref: 'https://github.com/WinSpartan/KitchenCompanion', 
       buttondescription:  "See on GitHub"
     },
